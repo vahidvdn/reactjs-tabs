@@ -1,6 +1,10 @@
 {
   "name": "reactjs-tabs",
-  "version": "1.0.1",
+  "version": "1.0.3",
+  "description": "Tab component for react",
+  "author": "Vahid Najafi <vahid.vdn@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -50,5 +54,13 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/vahidvdn/reactjs-tabs"
-  }
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "tabs",
+    "tab-component",
+    "components",
+    "react-component"
+  ]
 }
